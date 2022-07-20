@@ -16,6 +16,7 @@ Hello there!. I'm Staffin, a developer and analyst with Python and Java expertis
 <code><img height="20" alt="CSS" src="https://img.icons8.com/color/344/css3.png"></code>
 <code><img height="20" alt="Spring" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg"></code>
 <code><img height="20" alt="SQL" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"></code>
+<code><img height="20" alt="Excel" src="https://img.icons8.com/color/344/ms-excel.png"></code>
 
  <a href="https://github.com/staffin-7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staffin-7&layout=compact&theme=buefy&hide_border=true" /></a> |
 
